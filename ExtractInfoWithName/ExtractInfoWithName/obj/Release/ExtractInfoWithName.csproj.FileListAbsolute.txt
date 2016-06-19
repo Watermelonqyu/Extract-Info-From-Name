@@ -1,0 +1,15 @@
+D:\CSAL\Breya\ExtractInfoWithName\ExtractInfoWithName\bin\Release\ExtractInfoWithName.exe.config
+D:\CSAL\Breya\ExtractInfoWithName\ExtractInfoWithName\bin\Release\ExtractInfoWithName.exe
+D:\CSAL\Breya\ExtractInfoWithName\ExtractInfoWithName\bin\Release\ExtractInfoWithName.pdb
+D:\CSAL\Breya\ExtractInfoWithName\ExtractInfoWithName\bin\Release\CSALMongo.dll
+D:\CSAL\Breya\ExtractInfoWithName\ExtractInfoWithName\bin\Release\MongoDB.Bson.dll
+D:\CSAL\Breya\ExtractInfoWithName\ExtractInfoWithName\bin\Release\MongoDB.Driver.dll
+D:\CSAL\Breya\ExtractInfoWithName\ExtractInfoWithName\bin\Release\CSALMongo.pdb
+D:\CSAL\Breya\ExtractInfoWithName\ExtractInfoWithName\bin\Release\MongoDB.Bson.xml
+D:\CSAL\Breya\ExtractInfoWithName\ExtractInfoWithName\bin\Release\MongoDB.Driver.xml
+D:\CSAL\Breya\ExtractInfoWithName\ExtractInfoWithName\obj\Release\ExtractInfoWithName.csprojResolveAssemblyReference.cache
+D:\CSAL\Breya\ExtractInfoWithName\ExtractInfoWithName\obj\Release\ExtractInfoWithName.Form1.resources
+D:\CSAL\Breya\ExtractInfoWithName\ExtractInfoWithName\obj\Release\ExtractInfoWithName.Properties.Resources.resources
+D:\CSAL\Breya\ExtractInfoWithName\ExtractInfoWithName\obj\Release\ExtractInfoWithName.csproj.GenerateResource.Cache
+D:\CSAL\Breya\ExtractInfoWithName\ExtractInfoWithName\obj\Release\ExtractInfoWithName.exe
+D:\CSAL\Breya\ExtractInfoWithName\ExtractInfoWithName\obj\Release\ExtractInfoWithName.pdb
